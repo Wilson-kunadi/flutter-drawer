@@ -9,4 +9,4 @@ Reference : https://medium.com/flutter-community/clean-navigation-in-flutter-usi
 
 
 
-![Image](images\drawer.gif?raw=true "Title")
+![Image](images/drawer.gif?raw=true "Title")
