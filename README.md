@@ -1,16 +1,12 @@
-# drawer_app
+Drawer Tutorial repo
 
-A new Flutter project.
+Point :
 
-## Getting Started
+    This is a guide to basic drawer with class
+    Already Include how to check not to route to same page.
 
-This project is a starting point for a Flutter application.
+Reference : https://medium.com/flutter-community/clean-navigation-in-flutter-using-generated-routes-891bd6e000df
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](images\drawer.gif?raw=true "Title")
